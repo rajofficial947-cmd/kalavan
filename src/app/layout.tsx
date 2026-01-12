@@ -22,7 +22,7 @@ export default function RootLayout({
             fontSize: "20px",
           }}
         >
-          Kalavan 🎨
+          Kalavan 🎨 | Indian Art Marketplace
         </header>
 
         {children}
